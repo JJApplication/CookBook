@@ -1,3 +1,15 @@
 /* You can add custom styles here. */
-
+.book-menu .book-menu-content {
+  background-color: var(--menu-bg);
+}
+.container {
+  max-width: 120rem;
+}
+.book-brand {
+  font-weight: bold;
+}
+#TableOfContents {
+  border-left: 2px solid var(--toc-border);
+  padding: 0 1rem;
+}
 // @import "plugins/numbered";
