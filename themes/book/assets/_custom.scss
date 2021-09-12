@@ -12,4 +12,17 @@
   border-left: 2px solid var(--toc-border);
   padding: 0 1rem;
 }
+.book-menu {
+  flex:  0 0 18rem;
+}
+.book-menu .book-menu-content {
+  width: 18rem;
+  padding: 1.4rem;
+}
+.book-menu input.toggle+label::after {
+  content: "⇥";
+}
+.book-menu input.toggle:checked+label::after {
+  content: "⇲";
+}
 // @import "plugins/numbered";
