@@ -2,7 +2,7 @@
 title: "插件系统"
 date: 2021-09-12T19:38:14+08:00
 draft: false
-weight: 1
+weight: 2
 ---
 
 # Go的插件系统

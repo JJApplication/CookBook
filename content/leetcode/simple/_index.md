@@ -1,5 +1,5 @@
 ---
 bookCollapseSection: true
 weight: 1
-title: Simple
+title: 简单
 ---
